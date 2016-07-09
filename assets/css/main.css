@@ -1,0 +1,41 @@
+* { 
+    margin: 0; 
+}
+
+@import url(http://fonts.googleapis.com/css?family=Freckle+Face);
+
+.body { 
+    margin: 0; 
+    height: 100%; 
+    font-family: sans-serif;
+    background-color: #5E715E; 
+    font-family: sans-serif; 
+}
+
+.navbar {
+    border-bottom: 1px solid white !important;
+    clear: both;
+    color: #BE1E12;
+}
+
+.app { 
+    background-color:#5E715E;
+    width: 100vw;
+    height: 100vw;
+    clear: both;
+    position: relative;
+}
+
+.navbar {
+    margin-bottom: 10px;
+}
+
+/*.img-wrapper {
+    background-image:url(/website/codelikeachicken/assets/img/scratch_oval.jpg);
+    -moz-background-size:100% 100%;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    height:180px;
+    width:200px;
+    border: 1px solid red;
+}*/
